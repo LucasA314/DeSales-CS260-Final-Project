@@ -1,0 +1,175 @@
+dog_breed,category,size_category,weight_kg,weight_lbs,shoulder_height_cm,shoulder_height_in
+Border Collie,herding,medium,no data,no data,51,20
+Border Terrier,terrier,small,6,13.5,no data,no data
+Brittany,sporting,medium,16,35,48,19
+Cairn Terrier,terrier,small,6,14,25,10
+Welsh Springer Spaniel,sporting,medium,no data,no data,46,18
+English Cocker Spaniel,sporting,medium,14,30,41,16
+Cocker Spaniel,sporting,small,11,25,37,14.5
+Papillon,toy,small,no data,no data,24,9.5
+Australian Cattle Dog,herding,medium,no data,no data,47,18.5
+Shetland Sheepdog,herding,small,10.15,22,37,14.5
+Siberian Husky,working,medium,22,47.5,55,21.75
+Lhasa Apso,non-sporting,small,7,15,27,10.5
+Affenpinscher,toy,small,no data,no data,26,10.25
+Dachshund,hound,small,11,24,no data,no data
+Miniature Schnauzer,terrier,small,7,15.5,33,13
+Chihuahua,toy,small,2,5.5,13,5
+Australian Terrier,terrier,small,no data,no data,27,10.5
+Whippet,hound,medium,no data,no data,51,20
+English Springer Spaniel,sporting,medium,20,45,50,19.5
+West Highland White Terrier,terrier,small,no data,no data,27,10.5
+Bedlington Terrier,terrier,small,9,20,no data,no data
+Poodle,non-sporting,medium,no data,no data,41,16
+Bichon Frise,non-sporting,small,no data,no data,27,10.5
+German Shorthaired Pointer,sporting,large,28,62.5,61,24
+Pointer,sporting,large,27,59.5,65,25.5
+Tibetan Spaniel,non-sporting,small,5,12,25,10
+Labrador Retriever,sporting,medium,31,67.5,58,23
+Maltese,toy,small,2,5,23,9
+Pomeranian,toy,small,2,5,no data,no data
+Shih Tzu,toy,small,6,12.5,25,9.75
+Australian Shepherd,herding,medium,no data,no data,52,20.5
+Yorkshire Terrier,toy,small,2,5.5,no data,no data
+Irish Setter,sporting,large,29,65,66,26
+Pharaoh Hound,hound,medium,no data,no data,58,23
+Brussels Griffon,toy,small,4,9,no data,no data
+Golden Retriever,sporting,medium,27,60,58,22.75
+Samoyed,working,medium,no data,no data,54,21.25
+Beagle,hound,small,no data,no data,36,14
+Chesapeake Bay Retriever,sporting,large,31,67.5,60,23.5
+Tibetan Terrier,non-sporting,small,11,24,39,15.5
+Gordon Setter,sporting,large,28,62.5,64,25
+English Setter,sporting,large,no data,no data,62,24.5
+Pug,toy,medium,7,16,41,16
+Briard,herding,large,no data,no data,62,24.5
+Norfolk Terrier,terrier,small,5,12,24,9.5
+Flat-Coated Retriever,sporting,medium,no data,no data,59,23.25
+Boston Terrier,non-sporting,medium,NA (3 classes),NA (3 classes),no data,no data
+Doberman Pinscher,working,large,no data,no data,66,26
+English Toy Spaniel,toy,small,5,11,25,10
+Belgian Tervuren,herding,large,no data,no data,61,24
+Cavalier King Charles Spaniel,toy,small,7,15.5,32,12.5
+Dalmatian,non-sporting,medium,no data,no data,53,21
+Basset Hound,hound,small,no data,no data,36,14
+Basenji,hound,medium,10,23,42,16.5
+Italian Greyhound,toy,small,no data,no data,36,14
+Staffordshire Bull Terrier,terrier,medium,14,31,38,15
+Bouvier des Flandres,herding,large,no data,no data,65,25.5
+Pembroke Welsh Corgi,herding,small,12,26,28,11
+Clumber Spaniel,sporting,medium,32,70,47,18.5
+Dandie Dinmont Terrier,terrier,small,10,21,23,9
+Saluki,hound,medium,no data,no data,58,23
+Giant Schnauzer,working,large,35,77.5,65,25.5
+Greyhound,hound,large,29,65,no data,no data
+Scottish Terrier,terrier,small,9,20,25,10
+Rottweiler,working,large,no data,no data,62,24.5
+Kerry Blue Terrier,terrier,medium,17,36.5,47,18.5
+Afghan Hound,hound,large,25,55,66,26
+Newfoundland,working,large,57,125,69,27
+German Shepherd,herding,large,no data,no data,61,24
+Pekingese,toy,small,6,13,no data,no data
+Old English Sheepdog,herding,medium,no data,no data,56,22
+Akita,working,large,no data,no data,66,26
+Rhodesian Ridgeback,hound,large,35,77.5,65,25.5
+French Bulldog,non-sporting,medium,12,27,no data,no data
+Borzoi,hound,large,37,82.5,71,28
+Bernese Mountain Dog,working,large,no data,no data,64,25.25
+Bull Terrier,terrier,medium,27,60,55,21.5
+Boxer,working,medium,no data,no data,59,23.25
+Alaskan Malamute,working,large,36,80,61,24
+Chow Chow,non-sporting,medium,no data,no data,47,18.5
+Bloodhound,hound,large,39,85,64,25
+Irish Wolfhound,hound,large,no data,no data,81,32
+Bullmastiff,working,large,52,115,65,25.5
+Mastiff,working,large,79,175,76,30
+Great Dane,working,large,no data,no data,76,30
+Saint Bernard,working,large,70,155,67,26.5
+Bulldog,non-sporting,medium,20,45,no data,no data
+Airedale Terrier,terrier,medium,no data,no data,58,23
+American English Coonhound,hound,large,no data,no data,62,24.5
+American Eskimo Dog,non-sporting,small,no data,no data,36,14
+American Foxhound,hound,medium,no data,no data,58,23
+American Staffordshire Terrier,terrier,medium,no data,no data,46,18
+American Water Spaniel,sporting,medium,16,35,42,16.5
+Anatolian Shepherd Dog,working,large,52,115,71,28
+Bearded Collie,herding,medium,no data,no data,53,21
+Beauceron,herding,large,no data,no data,65,25.75
+Belgian Malinois,herding,large,no data,no data,61,24
+Belgian Sheepdog,herding,large,no data,no data,61,24
+Black and Tan Coonhound,hound,large,no data,no data,64,25
+Black Russian Terrier,working,large,no data,no data,71,28
+Bluetick Coonhound,hound,large,28,62.5,61,24
+Boykin Spaniel,sporting,medium,no data,no data,41,16
+Canaan Dog,herding,medium,20,45,55,21.5
+Cane Corso,working,large,no data,no data,64,25
+Cardigan Welsh Corgi,herding,small,14,31.5,29,11.5
+Cesky Terrier,terrier,small,9,19,29,11.5
+Chinese Crested,toy,small,no data,no data,30,12
+Chinese Shar Pei,non-sporting,medium,24,52.5,48,19
+Collie,herding,large,28,62.5,61,24
+Curly Coated Retriever,sporting,large,no data,no data,64,25
+English Foxhound,hound,large,no data,no data,61,24
+Entlebucher Mountain Dog,herding,medium,no data,no data,47,18.5
+Field Spaniel,sporting,medium,no data,no data,44,17.5
+Finnish Lapphund,herding,medium,no data,no data,47,18.5
+Finnish Spitz,non-sporting,medium,no data,no data,45,17.75
+German Pinscher,working,medium,no data,no data,47,18.5
+German Wirehaired Pointer,sporting,large,no data,no data,61,24
+Glen of Imaal Terrier,terrier,small,16,35,34,13.25
+Great Pyrenees,working,large,no data,no data,72,28.5
+Greater Swiss Mountain Dog,working,large,no data,no data,66,26
+Harrier,hound,medium,no data,no data,51,20
+Havanese,toy,small,no data,no data,25,9.75
+Ibizan Hound,hound,large,no data,no data,64,25
+Icelandic Sheepdog,herding,medium,no data,no data,44,17.25
+Irish Red and White Setter,sporting,large,no data,no data,62,24.25
+Irish Terrier,terrier,medium,12,26,46,18
+Irish Water Spaniel,sporting,medium,25,55,57,22.5
+Japanese Chin,toy,small,no data,no data,24,9.5
+Keeshond,non-sporting,medium,no data,no data,44,17.5
+Komondor,working,large,45,100,70,27.5
+Kuvasz,working,large,42,92.5,71,28
+Lakeland Terrier,terrier,small,8,17,37,14.5
+Leonberger,working,large,no data,no data,72,28.5
+Looked - nothing,,,,,,
+Löwchen,non-sporting,small,no data,no data,33,13
+Manchester Terrier,terrier,small,8,17,no data,no data
+Miniature Bull Terrier,terrier,small,no data,no data,30,12
+Miniature Pinscher,toy,small,no data,no data,29,11.25
+Neapolitan Mastiff,working,large,59,130,70,27.5
+Norwegian Buhund,herding,medium,15,33,44,17.25
+Norwegian Elkhound,hound,medium,23,51.5,51,20
+Norwegian Lundehund,non-sporting,small,no data,no data,34,13.5
+Norwich Terrier,terrier,small,5,12,25,10
+NOT POSSIBLE IF NO INTELLIGENCE DATA,,,,,,
+Nova Scotia Duck Tolling Retriever,sporting,medium,no data,no data,48,19
+Otterhound,hound,large,44,97.5,65,25.5
+Parson Russell Terrier,terrier,small,7,15,34,13.5
+Petit Basset Griffon Vendeen,hound,small,no data,no data,36,14
+Plott,hound,medium,23,50,57,22.5
+Polish Lowland Sheepdog,herding,medium,no data,no data,47,18.5
+Portuguese Water Dog,working,medium,22,47.5,51,20
+Puli,herding,medium,no data,no data,42,16.5
+Pyrenean Shepherd,herding,medium,no data,no data,46,18
+Redbone Coonhound,hound,large,no data,no data,61,24
+Schipperke,non-sporting,small,no data,no data,29,11.5
+Scottish Deerhound,hound,large,42,92.5,no data,no data
+Sealyham Terrier,terrier,small,11,24,27,10.5
+Shiba Inu,non-sporting,small,9,20,38,15
+Silky Terrier,toy,small,5,10,24,9.5
+Skye Terrier,terrier,small,18,40,25,9.75
+Smooth Fox Terrier,terrier,small,8,17.5,38,15
+Soft-Coated Wheaten Terrier,terrier,medium,16,35,46,18
+Spinone Italiano,sporting,large,no data,no data,62,24.5
+Standard Schnauzer,working,medium,no data,no data,47,18.5
+Sussex Spaniel,sporting,small,18,40,36,14
+Swedish Vallhund,herding,small,no data,no data,32,12.5
+Tibetan Mastiff,working,large,no data,no data,64,25
+Toy Fox Terrier,toy,small,no data,no data,25,10
+Vizsla,sporting,medium,no data,no data,57,22.5
+Weimaraner,sporting,large,no data,no data,64,25
+Welsh Terrier,terrier,small,9,20,38,15
+Wire Fox Terrier,terrier,small,8,17.5,38,15
+Wirehaired Pointing Griffon,sporting,medium,no data,no data,56,22
+Xoloitzcuintli,non-sporting,medium,no data,no data,42,16.5
